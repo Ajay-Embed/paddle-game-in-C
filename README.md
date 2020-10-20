@@ -15,7 +15,7 @@ Esc key
 
 ------------------------------------------------------------------------------------------------------------------
 
-You will need to intall the following packages and libraries to successfully compile the code on your linux system
+You will need to install the following packages and libraries to successfully compile the code on your linux system
 1. sudo apt-get install build essential
 2. sudo apt install libsdl2-dev
 3. Any text editor program
